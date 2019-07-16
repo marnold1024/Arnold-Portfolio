@@ -15,9 +15,12 @@ Source:“The Metamorphosis.” The Economist, August 13, 2016. (https://www.eco
  <iframe title="Jeremy Corbyn leads astronomically in  Facebook likes" aria-label="Bar Chart" id="datawrapper-chart-Oxf2v" src="//datawrapper.dwcdn.net/Oxf2v/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="347"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script> 
  
  
- ### Week 2 OIG Data Visualization 1
- Newspaper Journalist: I created my visualizations for the newspaper as if it were focusing on the status and conditions of the children and families in the Border Patrol facilities. While this would mainly be just an informative article, it would lean toward supporting the idea that the facilities are failing by becoming overcrowded by increased numbers of those apprehended and the inability to transfer them to which is leading to prolonged stays. I chose to do a bar chart showing the increase in Unaccompanied Alien Children and Family Units, compaing the FY' 18 and FY'19 side by side.I included the numbers of each, and the percent increase of Family Units in the desription. I thought this was enough information with the visual to get the point across that there was a large increase in apprehensions. 
+### Week 2 OIG Data Visualization 1
+ 
+Newspaper Journalist: I created my visualizations for the newspaper as if it were focusing on the status and conditions of the children and families in the Border Patrol facilities. While this would mainly be just an informative article, it would lean toward supporting the idea that the facilities are failing by becoming overcrowded by increased numbers of those apprehended and the inability to transfer them to which is leading to prolonged stays. I chose to do a bar chart showing the increase in Unaccompanied Alien Children and Family Units, compaing the FY' 18 and FY'19 side by side.I included the numbers of each, and the percent increase of Family Units in the desription. I thought this was enough information with the visual to get the point across that there was a large increase in apprehensions. 
+
 My second infographic was a pictorial chart to show the percentage of children detained for more than 72 hours. This is a simple way to show a statistic that is also eye-appealing in an article, rather than another chart or numbers.
+
 For both visuals I used minimum colors, and kept to the red/heat colors to depict negative (or bad) information. 
  
  Source: [OIG Management Alert](https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf)
