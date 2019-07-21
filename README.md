@@ -44,5 +44,5 @@ I chose to show this data in a bar graph, with the countries with the most attac
 
 
 ### Week 3
-[Link to Visualization 2](dataviz2)
+[Link to Visualization 2](https://marnold1024.github.io/Arnold-Portfolio/dataviz2)
 
