@@ -41,3 +41,8 @@ It is the map titled "US Experiences Largest Amount of Shark Attacks". When usin
 I chose to show this data in a bar graph, with the countries with the most attacks at the top and the least at the bottom. This allows the reader to easily see the countries in order, compared to having to search around the map and remember which numbers they already read to determine the order. I kept all of the bars the same color, as the different sizes of the bars and value numbers are enough to fully understand the order of most shark attacks around the world.
 
 <div class="infogram-embed" data-id="8bd17045-bede-4679-91c1-567b63d11232" data-type="interactive" data-title="Critique"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/8bd17045-bede-4679-91c1-567b63d11232" style="color:#989898!important;text-decoration:none!important;" target="_blank">Critique</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+
+### Week 3
+[Link to Visualization 2](dataviz2)
+
