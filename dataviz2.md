@@ -1,7 +1,6 @@
 [Portfolio Main Page](https://marnold1024.github.io/Arnold-Portfolio/) 
 
 
-
 ## Week 3 OECD data visualization 2
 
 ### Visualization 1
