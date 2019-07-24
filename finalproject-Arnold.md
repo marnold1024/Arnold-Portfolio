@@ -1,3 +1,5 @@
+[Link to Main Profile](https://marnold1024.github.io/Arnold-Portfolio/) 
+
 # Final Project- (My driving mileage)
 
 ## Part 1: A Project Proposal
