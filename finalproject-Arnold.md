@@ -48,4 +48,11 @@ I plan on completing my final project using Shorthand. My use of Shorthand will 
 3. The same graphs do not yet provide all of the data, but do they seem to make sense for what they are going to show? Any suggestions?
 4. How did you feel after reading this?
 
+### Storyboard
+![storyboard](https://user-images.githubusercontent.com/52502836/62244926-729bb800-b3ae-11e9-87a2-8626a17f178e.JPG)
+
+### Graphs
+I showed the graphs that are provided in my Part 1 Project assignment above. 
+
+
 
