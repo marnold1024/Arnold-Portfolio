@@ -33,9 +33,10 @@ Average annual miles per year: https://www.fhwa.dot.gov/ohim/onh00/bar8.htm
 ### Method and Medium
 I plan on completing my final project using Shorthand. My use of Shorthand will follow my structure section, where I will lead my audience through the discovery of my data. Descriptions and stories will be both provided through words and visuals for all parts. These parts include the intro of my data, introducing the local and larger averages of monthly mileages, and then my comparison with those. The price of my driving for myself (price of gas and maintenance) will be determined and depicted. I will then follow the same structure to look at outside effects of my driving, which inlcudes emissions.
 
+
 ## Part 2- Storyboards and User Research
 
-# User Research Protocol
+### User Research Protocol
 **Target Audience**- The target audience of my final project is specifically more focused toward individuals around my age that drive/own a car, but could also be more broad to include all people who drive cars. In general it could be taken even broader, and could be any adult (even if they don’t dive a car), as the topic and information is general enough that there shouldn’t be any barriers to understanding the topic. The audience could easily find a different habit/aspect of their life to relate this to. A main focus of my project is to just become more aware of our actions and their effects on ourselves, as well as those around us.
 
 **My approach to identifying individuals to interview**- I plan on asking individuals of around my age. While I would like the majority to drive a car, I would also be interested in interviewing a person who does not drive a car, to see how they react to the project.
