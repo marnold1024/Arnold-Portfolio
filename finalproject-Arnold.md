@@ -55,4 +55,9 @@ I plan on completing my final project using Shorthand. My use of Shorthand will 
 I showed the graphs that are provided in my Part 1 Project assignment above. 
 
 
+### Results
+I interviewed three people, all within the 25-35 age range. Their answers provided similar thoughts and recommendations, as summarized below.
+1. Everyone agreed with the theme and that is was apparent it was about driving statistics. One liked that I was looking at the cost of driving in a holistic way- both monetary with gas expenses and externalities with carbon emissions. Another person suggested to have a more initial focus on the rising carbon emissions and other externalities driving causes as a way to bring in the reader, and then dive into my own statisitics as a way to determine my impact on those externalities. 
+2. The general consensus was that the flow of information and slides was fluid and made sense. One suggestion was to also provide more comparison between different mode of transportation with their emissions.
+
 
