@@ -85,20 +85,13 @@ Overall I enjoyed this final project. It was interesting to take something I do 
 
 References and sources:
 [Carbon Footprint calculator](https://www3.epa.gov/carbon-footprint-calculator/) 
-
 [Map my emissions](https://mapmyemissions.com/home)  
-
 [Information about greenhouse gas emissions](https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P100U8YT.pdf)
-
 [CO2 info](https://www.epa.gov/ghgemissions/overview-greenhouse-gases#carbon-dioxide)
-
 [Pittsburgh air quality](https://www.ehn.org/pittsburghs-air-quality-continues-to-decline-new-report-finds-2635280543.html)
-
 [US air pollution](https://www.nytimes.com/interactive/2019/06/19/climate/us-air-pollution-trump.html)
-
 [Air Quality Study](https://www.lung.org/our-initiatives/healthy-air/sota/key-findings/)
-
-Pictures taken from :https://www.pexels.com/ and https://pixabay.com/ and credited when name was provided.
+Pictures taken from: [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/) and credited when name was provided.
 
 
 [Link to Main Profile](https://marnold1024.github.io/Arnold-Portfolio/) 
