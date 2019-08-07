@@ -1,6 +1,6 @@
 [Link to Main Profile](https://marnold1024.github.io/Arnold-Portfolio/) 
 
-[Link to Final Project]()
+[Link to Final Project](https://carnegiemellon.shorthandstories.com/shifting_gears/index.html)
 
 # Final Project- Shifting Gears (My driving and its various impacts)
 
@@ -96,5 +96,5 @@ Pictures taken from: [Pexels](https://www.pexels.com/) and [Pixabay](https://pix
 
 [Link to Main Profile](https://marnold1024.github.io/Arnold-Portfolio/) 
 
-[Link to Final Project]()
+[Link to Final Project](https://carnegiemellon.shorthandstories.com/shifting_gears/index.html)
 
