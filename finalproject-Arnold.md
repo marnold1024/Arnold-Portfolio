@@ -21,8 +21,7 @@ My final section will be a wrap up and conclusion. Using all of the data and ana
 
 ### Initial Sketches
 Visualizations I'm going to use include charts to show my monthly mileage, comparisons between my mileage data with different populations, and pictures to show and compare my carbon footprint with the average. Examples of such visualizations are included below:
-<script id="infogram_0_e0c27e7f-5657-4f11-ba37-a03a54a5b31f" title="Untitled infographic" src="https://e.infogram.com/js/dist/embed.js?dDR" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/e0c27e7f-5657-4f11-ba37-a03a54a5b31f" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled infographic</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
-
+<div class="infogram-embed" data-id="e0c27e7f-5657-4f11-ba37-a03a54a5b31f" data-type="interactive" data-title="Untitled infographic"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/e0c27e7f-5657-4f11-ba37-a03a54a5b31f" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled infographic</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 ### The Data
 Data I will use for my projet includes data my driving mileage data recorded by my car and stored on the My Chevrolet website. Driving mileage averages for Pittsburgh, Pennsylvania, and the US will be used. Other data will include national and local air quality measures. A carbon footprint calcluator will also be used to determine the amount of emissions my driving releases into the atmosphere.
@@ -86,14 +85,23 @@ Overall I enjoyed this final project. It was interesting to take something I do 
 
 References and sources:
 [Carbon Footprint calculator](https://www3.epa.gov/carbon-footprint-calculator/) 
+
 [Map my emissions](https://mapmyemissions.com/home)  
+
 [Information about greenhouse gas emissions](https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P100U8YT.pdf)
+
 [CO2 info](https://www.epa.gov/ghgemissions/overview-greenhouse-gases#carbon-dioxide)
+
 [Pittsburgh air quality](https://www.ehn.org/pittsburghs-air-quality-continues-to-decline-new-report-finds-2635280543.html)
+
 [US air pollution](https://www.nytimes.com/interactive/2019/06/19/climate/us-air-pollution-trump.html)
+
 [Air Quality Study](https://www.lung.org/our-initiatives/healthy-air/sota/key-findings/)
+
 Pictures taken from :https://www.pexels.com/ and https://pixabay.com/ and credited when name was provided.
 
+
 [Link to Main Profile](https://marnold1024.github.io/Arnold-Portfolio/) 
+
 [Link to Final Project](_)
 
