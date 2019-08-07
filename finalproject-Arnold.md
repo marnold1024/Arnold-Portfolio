@@ -96,5 +96,6 @@ Pictures taken from: [Pexels](https://www.pexels.com/) and [Pixabay](https://pix
 
 [Link to Main Profile](https://marnold1024.github.io/Arnold-Portfolio/) 
 
-[Link to Final Project](_)
+[Link to Final Project](<script src="https://embed.shorthand.com/embed_6.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/shifting_gears/"><h1>Shifting Gears</h1><p>Changing my driving habits to help change the world.</p></div>)
 
