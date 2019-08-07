@@ -47,5 +47,4 @@ I chose to show this data in a bar graph, with the countries with the most attac
 [Link to Visualization 2](https://marnold1024.github.io/Arnold-Portfolio/dataviz2)
 
 [Link to Final Project Working Page](finalproject-Arnold.md) 
-[Link to Final Project Shorthand](<script src="https://embed.shorthand.com/embed_6.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/shifting_gears/"><h1>Shifting Gears</h1><p>Changing my driving habits to help change the world.</p></div>) 
+[Link to Final Project Shorthand]() 
