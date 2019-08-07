@@ -84,21 +84,9 @@ Going from the storyboards and wireframes to creating the actual project in Shor
 Overall I enjoyed this final project. It was interesting to take something I do everyday, driving, and look at it a different way. I know my driving every day puts miles on the car and emits gas, but I never looked at the numerical numbers before. While I am happy to have found out that I am below the averages of driving mileage and carbon footprint, that does not mean I am not concerned with changing my habits at all. Considering Pittsburgh received an F in all three air quality categories, I am now more aware of how my daily activities are affecting my life and those around me by contributing to greenhouse gases being emitted into the atmostphere. If we want to help our city decrease those levels, we all have to be conscious and aware of our actions.
 
 References and sources:
-[Carbon Footprint calculator](https://www3.epa.gov/carbon-footprint-calculator/) 
-
-[Map my emissions](https://mapmyemissions.com/home)  
-
-[Information about greenhouse gas emissions](https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P100U8YT.pdf)
-
-[CO2 info](https://www.epa.gov/ghgemissions/overview-greenhouse-gases#carbon-dioxide)
-
-[Pittsburgh air quality](https://www.ehn.org/pittsburghs-air-quality-continues-to-decline-new-report-finds-2635280543.html)
-
-[US air pollution](https://www.nytimes.com/interactive/2019/06/19/climate/us-air-pollution-trump.html)
-
-[Air Quality Study](https://www.lung.org/our-initiatives/healthy-air/sota/key-findings/)
-
-Pictures taken from: [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/) and credited when name was provided.
+<p>[Carbon Footprint calculator](https://www3.epa.gov/carbon-footprint-calculator/)<p><p>[Map my emissions](https://mapmyemissions.com/home)<p><p>[Information about greenhouse gas emissions](https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P100U8YT.pdf)<p><p>[CO2 info](https://www.epa.gov/ghgemissions/overview-greenhouse-gases#carbon-dioxide)<p>
+<p>[Pittsburgh air quality](https://www.ehn.org/pittsburghs-air-quality-continues-to-decline-new-report-finds-2635280543.html)<p>
+<p>[US air pollution](https://www.nytimes.com/interactive/2019/06/19/climate/us-air-pollution-trump.html)<p><p>[Air Quality Study](https://www.lung.org/our-initiatives/healthy-air/sota/key-findings/)<p><p>Pictures taken from: [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/) and credited when name was provided.<p>
 
 
 [Link to Main Profile](https://marnold1024.github.io/Arnold-Portfolio/) 
