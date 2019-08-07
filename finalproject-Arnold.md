@@ -83,14 +83,14 @@ After considering and processesing my user research feedback, I did change my fo
 Going from the storyboards and wireframes to creating the actual project in Shorthand was both an easy transition, but somewhat difficult. Knowing the flow my story was going to follow helped with choosing the design, but learning the actual tool (Shorthand) took some time. I chose to separate the sections of my storyboard with "title" sections with a picture background to break up the text and graphs of each section. The design of each section changed slightly, so it was nice to have the "title" sections to break those up to allow for transitions and readability of each section. Deciding which format to display the charts and graphs was a challenge, partially due to the design restrictions of Shorthand. I would have liked to embed my visualization into Shorthand but include a text description right next to it, but not having a coding backround, I could not find an easy way to do so. I instead then chose to take images of my visualizations so they could have text next to them. While this fixed the problem, the images were then smaller than I preferred and not interactive.
 
 References and sources:
-Carbon Footprint calculator: https://www3.epa.gov/carbon-footprint-calculator/
-Map my emissions: https://mapmyemissions.com/home 
-Information about greenhouse gas emissions: https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P100U8YT.pdf
-CO2 info: https://www.epa.gov/ghgemissions/overview-greenhouse-gases#carbon-dioxide 
-Pittsburgh air quality: https://www.ehn.org/pittsburghs-air-quality-continues-to-decline-new-report-finds-2635280543.html 
-US air pollution: https://www.nytimes.com/interactive/2019/06/19/climate/us-air-pollution-trump.html 
-Air Quality Study https://www.lung.org/our-initiatives/healthy-air/sota/key-findings/
-Pictures taken from: https://www.pexels.com/ and https://pixabay.com/ and credited when name was provided.
+[Carbon Footprint calculator](https://www3.epa.gov/carbon-footprint-calculator/) 
+[Map my emissions](https://mapmyemissions.com/home)  
+[Information about greenhouse gas emissions](https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P100U8YT.pdf)
+[CO2 info](https://www.epa.gov/ghgemissions/overview-greenhouse-gases#carbon-dioxide)
+[Pittsburgh air quality](https://www.ehn.org/pittsburghs-air-quality-continues-to-decline-new-report-finds-2635280543.html)
+[US air pollution](https://www.nytimes.com/interactive/2019/06/19/climate/us-air-pollution-trump.html)
+[Air Quality Study](https://www.lung.org/our-initiatives/healthy-air/sota/key-findings/)
+Pictures taken from :https://www.pexels.com/ and https://pixabay.com/ and credited when name was provided.
 
 [Link to Main Profile](https://marnold1024.github.io/Arnold-Portfolio/) 
 [Link to Final Project](_)
